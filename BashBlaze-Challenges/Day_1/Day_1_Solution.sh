@@ -13,16 +13,20 @@ var1="Hey"
 var2="Bash"
 
 # Task  4: Using Variables
-num="$var1, $var2!"
-echo "$num"
+num1=20
+num2=10
+sum=$((num1+num2))
+echo "$num1 + $num2 = $sum"
 
 # Task  5: Using Built-in Variables
 echo "My current bash path - $BASH"
 echo "Bash version I am using - $BASH_VERSION"
 echo "PID of bash I am running - $$"
 echo "My home directory - $HOME"
-echo "Where am I currently? - $PWD"
 echo "My hostname - $HOSTNAME"
+echo "I AM $whoami ."
+echo "The name of the script is $0"
+echo "Currently I Am At $PWD Location."
 
 # Task  6: Wildcards
 # Create test files
