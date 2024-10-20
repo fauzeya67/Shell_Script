@@ -12,7 +12,7 @@ Let’s make a well-articulated and documented **cheat sheet** with all the comm
 
 Show us your knowledge mixed with your creativity 😎.
 
-### Guidelines
+## Guidelines
 
 - The cheat sheet should be unique and reflect your understanding.
 - Include all the important commands you have learned.
