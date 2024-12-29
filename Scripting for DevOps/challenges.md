@@ -1,6 +1,9 @@
 1.##install packages.
+
 2.## shell script for user management and backup in Linux
+
 3.## Write a shell script to find and delete all files in a directory older than 30 days.
+
 4.## Create a script to monitor the disk management of a server. If usage exceeds 80%, log the details to a file and send an alert email.
 5.##write a script that renames all.txt files in directories by appending the current date to the file name.
 6.##create a script that checks if a particular service eg.httpd or nginx is running if not it should restart the service and log the action
